@@ -1,6 +1,6 @@
 Screen Shot of the Landing page 
 
-![Capture](https://user-images.githubusercontent.com/100038306/235307703-84a55496-2270-42b0-8fe2-8b4ffe702848.JPG
+![Capture](https://user-images.githubusercontent.com/100038306/235307746-de57d133-0675-40b6-9a88-c9331ac5bf7b.JPG)
 
 # Getting Started with Create React App
 
